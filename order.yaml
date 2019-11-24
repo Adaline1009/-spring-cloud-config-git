@@ -1,2 +1,2 @@
 text:
-  show = 'Hello'
+  show: 'Hello'
